@@ -15,7 +15,7 @@ ____
 * Визуализация алгоритмов и операций со структурами данных (React, Typescript, структуры данных) https://github.com/R2u1s/algososh
 ____
 #### Мой стек технологий
-* HTML, верстка
+* HTML, CSS, SCSS
 * Javascript, API, ООП
 * React, Typescript, Redux
 * Алгоритмы и структуры данных
