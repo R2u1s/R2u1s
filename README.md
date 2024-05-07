@@ -11,6 +11,7 @@ ____
 * [Поисковик по книгам (React, Typescript)](https://github.com/R2u1s/book-search)
 
 Учебные проекты:
+* [Проект Место. Шеринг фото (Javascript, API)](https://github.com/R2u1s/mesto-project)
 * [Космическая бургерная (React, Typescript)](https://github.com/R2u1s/react-burger)
 * [Визуализация алгоритмов и операций со структурами данных (React, Typescript)](https://github.com/R2u1s/algososh)
 ____
