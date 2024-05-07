@@ -17,9 +17,9 @@ ____
 ____
 #### Мой стек технологий
 * HTML, CSS, SCSS
-* Javascript, API, ООП
+* Javascript, ООП
 * React, Typescript, Redux
 * Алгоритмы и структуры данных
 * Cypress, Jest
-* Node.js, Express, MongoDB, PostgreSQL
+* Node.js, Express, MongoDB, PostgreSQL, API, WebSocket
 * Docker
