@@ -13,3 +13,12 @@ ____
 Учебные проекты:
 * Космическая бургерная (React, Typescript) https://github.com/R2u1s/react-burger
 * Визуализация алгоритмов и операций со структурами данных (React, Typescript, структуры данных) https://github.com/R2u1s/algososh
+____
+#### Мой стек технологий
+* HTML, верстка
+* Javascript, API, ООП
+* React, Typescript, Redux
+* Алгоритмы и структуры данных
+* Cypress, Jest
+* Node.js, Express, MongoDB, PostgreSQL
+* Docker
