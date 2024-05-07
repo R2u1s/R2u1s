@@ -11,8 +11,8 @@ ____
 * [Поисковик по книгам (React, Typescript)](https://github.com/R2u1s/book-search)
 
 Учебные проекты:
-* Космическая бургерная (React, Typescript) https://github.com/R2u1s/react-burger
-* Визуализация алгоритмов и операций со структурами данных (React, Typescript, структуры данных) https://github.com/R2u1s/algososh
+* [Космическая бургерная (React, Typescript)]https://github.com/R2u1s/react-burger
+* [Визуализация алгоритмов и операций со структурами данных (React, Typescript, структуры данных)]https://github.com/R2u1s/algososh
 ____
 #### Мой стек технологий
 * HTML, CSS, SCSS
