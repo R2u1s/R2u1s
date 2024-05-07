@@ -8,7 +8,7 @@
 ____
 #### Мои работы
 Пэт-проекты:
-* [Поисковик по книгам (React, Typescript)] (https://github.com/R2u1s/book-search)
+* [Поисковик по книгам (React, Typescript)](https://github.com/R2u1s/book-search)
 
 Учебные проекты:
 * Космическая бургерная (React, Typescript) https://github.com/R2u1s/react-burger
