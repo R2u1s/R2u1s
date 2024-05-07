@@ -12,7 +12,7 @@ ____
 
 Учебные проекты:
 * [Проект Место. Шеринг фото (Javascript, API)](https://github.com/R2u1s/mesto-project)
-* [Космическая бургерная (React, Typescript)](https://github.com/R2u1s/react-burger)
+* [Космическая бургерная (React, Typescript, Redux)](https://github.com/R2u1s/react-burger)
 * [Визуализация алгоритмов и операций со структурами данных (React, Typescript)](https://github.com/R2u1s/algososh)
 ____
 #### Мой стек технологий
