@@ -7,6 +7,11 @@
 
 ____
 #### Мои работы
+Текущие проекты:
+* [Интернет-магазин по по заказу мерч-продукции (находится в разработке). Стек: React, Node.JS](http://77.238.250.70/)
+
+* [Сайт для пополнения игровых аккаунтов (React, Typescript). Стек: React, Typescript, Node.JS](https://vezdepay.com/)
+
 Пэт-проекты:
 * [Поисковик по книгам (React, Typescript, Redux)](https://github.com/R2u1s/book-search)
 
